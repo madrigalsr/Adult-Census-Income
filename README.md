@@ -9,7 +9,7 @@ Costa Rica, mayo 30 , 2024.
 Randall Madrigal Salas
 </font>
 
-https://github.com/samuelsaldanav/paper1
+https://github.com/madrigalsr/Adult-Census-Income
 
 
 ## Sobre Análisis sobre los ingresos de la población adulta
