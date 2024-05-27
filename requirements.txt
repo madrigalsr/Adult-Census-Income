@@ -1,0 +1,10 @@
+pandas
+numpy
+os
+torch
+matplotlib
+seaborn
+sklearn
+yellowbrick
+plotly
+imblearn
