@@ -23,7 +23,7 @@ Este análisis responde al proyecto final sobre Machine Learning para la especia
 <br>
 
 <p align="justify">
-Este repositorio está basado en _Notebooks Jupyter_ (_Jupyterlab_), así que puede seguirse a través de un navegador, en una instalación local (previa descarga), o en una plataforma en la nube. Se dan más detalles [abajo](#seguir_paper1).
+Este repositorio está basado en _Notebooks Jupyter_ (_Jupyterlab_), así que puede seguirse a través de un navegador, en una instalación local (previa descarga), o en una plataforma en la nube. Se dan más detalles abajo.
 </p>
 
 <br>
