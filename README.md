@@ -81,12 +81,12 @@ En el ámbito de la ciencia de datos, la capacidad de predecir ingresos basados 
 
 ## Generalidades
 <p align="justify">
-Este proyecto se implementa siguiendo la metodología CRISP-DM, que estructura el proceso en fases definidas: comprensión del negocio, comprensión de los datos, preparación de los datos, modelado, evaluación y despliegue. A través de esta metodología, se busca no solo mejorar la precisión de los modelos predictivos, sino también obtener insights valiosos sobre los factores determinantes de los ingresos y cómo estos pueden influir en la toma de decisiones estratégicas para el bienestar socioeconómico de la población. El dataset original, extraído por Barry Becker, se compone de 32,561 registros con atributos que incluyen edad, clase de trabajo, nivel educativo, estado civil, ocupación, raza, sexo, ganancias y pérdidas de capital, horas trabajadas por semana y país de origen.
+Este proyecto se implementa siguiendo la metodología CRISP-DM, que estructura el proceso en fases definidas: comprensión del negocio, comprensión de los datos, preparación de los datos, modelado, evaluación y despliegue. A través de esta metodología, se busca no solo mejorar la precisión de los modelos predictivos, sino también obtener insights valiosos sobre los factores determinantes de los ingresos y cómo estos pueden influir en la toma de decisiones estratégicas para el bienestar socioeconómico de la población. 
 </p>
 
 ## Antecedentes
 <p align="justify">
-El proyecto se desarrolla utilizando la metodología CRISP-DM (Cross Industry Standard Process for Data Mining), que incluye las fases de comprensión del negocio, comprensión de los datos, preparación de los datos, modelado, evaluación y despliegue. El dataset original, extraído por Barry Becker, se compone de 32,561 registros con atributos que incluyen edad, clase de trabajo, nivel educativo, estado civil, ocupación, raza, sexo, ganancias y pérdidas de capital, horas trabajadas por semana y país de origen.
+El proyecto se basa en el análisis de datos del censo de ingresos de la población adulta, utilizando un dataset extraído por Barry Becker del Repositorio de Machine Learning de la Universidad de California en Irvine (UCI). Este conjunto de datos incluye 32,561 registros con atributos como edad, clase de trabajo, nivel educativo, estado civil, ocupación, raza, sexo, ganancias y pérdidas de capital, horas trabajadas por semana y país de origen. La finalidad del análisis es desarrollar modelos predictivos que puedan identificar patrones y tendencias en los ingresos de la población, permitiendo así la formulación de estrategias efectivas para abordar las desigualdades económicas y mejorar la toma de decisiones en políticas públicas y estrategias de mercado.
 </p>
 
 ## Metodología
@@ -104,8 +104,7 @@ Los materiales utilizados en el proyecto incluyen:
 
 *   Dataset: "adult.csv" del UCI Machine Learning Repository.
 *   Herramientas de Software: Python, bibliotecas de Machine Learning como scikit-learn y pandas para manipulación y análisis de datos.
-*   Algoritmos: AdaBoost, RandomForest, LogisticRegression, 
-*   DecisionTree PCA y K-means.
+*   Algoritmos: AdaBoost, RandomForest, LogisticRegression, DecisionTree, PCA y K-means.
 
 ## Resultados
 <p align="justify">
