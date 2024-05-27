@@ -43,7 +43,7 @@ personalizar estrategias de marketing, mejorar los ingresos de la población obj
 
 #### Segmentación de clientes
 
-*   Personalizar estrategias de marketing y servicios basado en la segmentación demográfica y económicamente de los individuos. 
+*   Personalizar estrategias de marketing y servicios basado en la segmentación demográfica y económica de los individuos. 
 *   Implementar un modelo de segmentación de clientes, utilizando técnicas de aprendizaje no supervisado como el análisis de clústeres basado en características demográficas y económicas. Este modelo permitirá identificar grupos de individuos con características similares, lo que facilitará la personalización de estrategias de marketing y servicios.
 
 #### Identificación de factores influyentes en los ingresos
